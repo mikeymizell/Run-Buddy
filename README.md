@@ -12,3 +12,5 @@ https://github.com/mikeymizell/Run-Buddy
 
 ## Contribution
 Made with ❤️ by Michael Mizell
+
+### ©️2019 Run Buddy, Inc 
